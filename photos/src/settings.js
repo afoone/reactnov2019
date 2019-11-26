@@ -1,0 +1,6 @@
+
+
+// https://api.unsplash.com/search/photos?page=1&query=office&client_id=f9a69af2fe5b882bfba401fb16a5d7c8f5dc8c9170ff36aa9f6f13620da33c62&client_secret=b1513f1512b469144f69485fd85551bf14270184a80a59a834ec1ad82c436176
+
+export const ACCESS_KEY = "f9a69af2fe5b882bfba401fb16a5d7c8f5dc8c9170ff36aa9f6f13620da33c62";
+export const SECRET_KEY = "b1513f1512b469144f69485fd85551bf14270184a80a59a834ec1ad82c436176";

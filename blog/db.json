@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1
+    },
+    {
+      "title": "hola",
+      "author": "pepito",
+      "content": "este es mi blog",
+      "image": "",
+      "id": 2
+    },
+    {
+      "title": "titulin",
+      "author": "yo mismo",
+      "image": "url",
+      "content": "contenido",
+      "id": 3
+    },
+    {
+      "title": "sdf",
+      "author": "adf",
+      "image": "asdf",
+      "content": "asdf",
+      "id": 4
+    }
+  ]
+}
