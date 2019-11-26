@@ -1,27 +1,11 @@
 {
+  "cosas": [],
   "posts": [
     {
-      "id": 1
-    },
-    {
-      "title": "hola",
-      "author": "pepito",
-      "content": "este es mi blog",
-      "image": "",
-      "id": 2
-    },
-    {
-      "title": "titulin",
-      "author": "yo mismo",
-      "image": "url",
-      "content": "contenido",
-      "id": 3
-    },
-    {
-      "title": "sdf",
-      "author": "adf",
-      "image": "asdf",
-      "content": "asdf",
+      "title": "GOA",
+      "author": "Alfonso",
+      "image": "https://images2.bovpg.net/fw/back/es/sale/d1667b0d6afc0b.jpg",
+      "content": "este es el sitio donde me voy a jubilar el año que viene si puedo",
       "id": 4
     }
   ]

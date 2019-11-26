@@ -112,4 +112,6 @@ class BlogCreate extends React.Component {
 export default BlogCreate;
 
 
-// https://github.com/afoone/reactnov2019
+
+
+// json-server --watch db.json --port 3001
